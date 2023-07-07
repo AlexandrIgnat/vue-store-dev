@@ -17,6 +17,14 @@ export default [
         price: 3290,
         image: 'https://ir-2.ozone.ru/s3/multimedia-a/wc1000/6429447934.jpg',
     },{
+        title: 'Конструктор Звездные войны "Легкий Имперский крейсер", 1391 деталей / Star Wars / Фигурки',
+        price: 6050,
+        image: 'https://ir-2.ozone.ru/s3/multimedia-4/wc1000/6554779120.jpg',
+    },{
+        title: 'Конструктор детский LEGO SW Пиратский истребитель, 285 деталей, 8+, 75346',
+        price: 4617,
+        image: 'https://ir-2.ozone.ru/s3/multimedia-2/wc1000/6683104250.jpg',
+    },{
         title: 'Конструктор LEGO Speed Champions Lotus',
         price: 3337,
         image: 'https://ir-2.ozone.ru/s3/multimedia-f/wc1000/6265523595.jpg',
@@ -44,7 +52,5 @@ export default [
         title: 'Конструктор LEGO City Great Vehicles Мобильный кран, 340 деталей, 7+, 60324',
         price: 3329,
         image: 'https://ir-2.ozone.ru/s3/multimedia-v/wc1000/6205741507.jpg',
-    }
-    
-
+    }, 
 ]
