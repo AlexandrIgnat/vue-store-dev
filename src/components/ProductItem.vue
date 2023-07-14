@@ -19,7 +19,6 @@
 <script>
 
 export default {
-    // name: 'product_item',
     props: [
         'product'
     ],
